@@ -10,9 +10,8 @@ Trabalho desenvolvido por: _Eduardo Ferreira Gonçalves_
 
 O contexto que impulsionou a realização deste estudo se fundamenta na relevância do problema relacionado à segurança viária, atendimento pré-hospitalar, bem como em todas as consequências advindas dos acidentes registrados nas rodovias.<br>
 O tema tratado está em grande destaque desde que a Organização Mundial da Saúde – OMS lançou dentro dos planos de Desenvolvimento Sustentável a Década de Ação pela Segurança no Trânsito 2021-2030 com ***a meta de prevenir ao menos 50% das mortes e lesões no trânsito até 2030***.<br>
-Problemática que afeta o Brasil de maneira significativa, uma vez que, de acordo com a própria OMS e a Organização Pan-americana da Saúde - OPAS destacam que $\Large{93\%}$ das mortes no trânsito ocorrem em países de baixa e média renda, embora estes concentrem aproximadamente 60% dos veículos do mundo.
+Problemática que afeta o Brasil de maneira significativa, uma vez que, de acordo com a própria OMS e a Organização Pan-americana da Saúde - OPAS destacam que 93% das mortes no trânsito ocorrem em países de baixa e média renda, embora estes concentrem aproximadamente 60% dos veículos do mundo.
 <br>
-<img src="https://s2.glbimg.com/ebYLEvUR7eUIKICtOxJfniep6OI=/0x0:911x420/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/L/1/SxdYbRQKCjEck8pSllBw/whatsapp-image-2022-10-01-at-15.59.36.jpeg" height="400" width="800">
 
 ---
 <a name="objetivo"></a>
